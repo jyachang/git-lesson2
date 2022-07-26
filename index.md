@@ -6,4 +6,4 @@ import os
 print ("hello world!")
 ```
 
-![](https://i.kym-cdn.com/photos/images/newsfeed/002/311/787/da6.jpg)
+![](https://www.thesun.co.uk/wp-content/uploads/2018/06/Hot-18.png?w=670)
